@@ -109,3 +109,11 @@ li>a:hover{
 	float: right;
 	margin-top: -370px;
 }
+@media(min-width:321px) and (max-width:425px){
+
+.hero h1{
+	
+	font-size:40px;
+	
+}
+}
