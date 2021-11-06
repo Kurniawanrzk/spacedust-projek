@@ -1,0 +1,111 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	color: whitesmoke;
+	
+
+}
+
+.container{
+	width: 100%;
+	height: 1600px;
+	background-color: black;
+	
+	
+}
+
+.hero{
+	
+	border: solid black 1px;
+	width: auto;
+	height: 650px;
+	margin: 0px auto;
+	background-image: url(img/spacedusthero.png);
+    background-size:1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+
+.hero h1{
+	
+	color: whitesmoke;
+	padding-top: 150px;
+	font-size:70px;
+	text-align: center;
+}
+center>a{
+	color:black;
+	background-color: whitesmoke;
+	text-decoration: none;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 100px;
+	padding: 5px;
+	transition: 0.8;
+}
+
+center>a:hover{
+	color: black;
+	background-color: whitesmoke;
+	transition: 200ms linear;
+}
+
+.center-seemore{
+ margin-top: 50px;
+}
+
+
+nav{
+	
+	text-align: center;
+	padding-top: 30px;
+	z-index:5;
+	position: relative;
+
+}
+
+ul>li{
+	display: inline-flex;
+}
+
+li>a{
+	color: whitesmoke;
+	text-decoration: none;
+	margin-left: 10px;
+	padding: 10px;
+	
+
+
+}
+li>a:hover{
+	color: black;
+	background-color: whitesmoke;
+	padding: 10px;
+	transition: 200ms linear;
+
+
+
+}
+.content{
+	padding: 10px;
+	overflow-x: hidden;
+}
+
+.content p{
+	font-size: 30px;
+
+}
+
+.content img{
+	float: right;
+	margin-top: -370px;
+}
