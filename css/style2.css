@@ -82,3 +82,8 @@ center>a:hover{
 	color: black;
 }
 
+@media(min-width:321px) and (max-width:425px){
+h1{
+	font-size:30px;
+}
+
