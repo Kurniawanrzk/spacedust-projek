@@ -92,3 +92,13 @@ li>a:hover{
 	width: 1000px;
 	text-align: center;
 }
+.footer{
+	padding: 20px;
+	margin-top: 200px;
+	background-color: whitesmoke;
+
+}
+
+.footer h3{
+	color: black;
+}
