@@ -102,3 +102,14 @@ li>a:hover{
 .footer h3{
 	color: black;
 }
+
+@media(min-width:321px) and (max-width:425px){
+
+.container{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	
+	
+}
+}
