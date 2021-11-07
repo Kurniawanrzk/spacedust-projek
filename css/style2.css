@@ -1,1 +1,84 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+	
+}
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+	color: whitesmoke;
+	
+
+}
+
+.container{
+	width: 100%;
+	height: auto;
+	background-image: url(../img/spacedustbg.png);
+	background-size:1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow-x: hidden;
+}
+
+.content{
+	width: auto;
+	height: auto;
+	background-image: url(../img/spacedustbg.png);
+	background-size:1300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+center>img{
+	width: 300px;
+	
+	border:2px solid whitesmoke;
+}
+.content>center>img{
+	width: 300px;
+	margin-top: 100px;
+	border:2px solid whitesmoke;
+
+}
+.content1>center>img{
+	width: 300px;
+	margin-top: 50px;
+	border:2px solid whitesmoke;
+
+}
+h1{
+	font-size:40px;
+}
+center>a{
+	color:black;
+	background-color: whitesmoke;
+	text-decoration: none;
+	font-size: 30px;
+	text-align: center;
+	border-radius: 100px;
+	padding: 5px;
+}
+
+center>a:hover{
+	opacity: 0.7;
+	transition: 200ms linear;
+
+}
+.footer{
+	padding: 20px;
+	margin-top: 200px;
+	background-color: whitesmoke;
+	 overflow-x: hidden;
+
+}
+
+.footer h3{
+	color: black;
+}
 
