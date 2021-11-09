@@ -132,7 +132,7 @@ li>a:hover{
 }
 
 
-@media(min-width:300px) and (max-width:425px){
+@media(min-width:321px) and (max-width:425px){
 
 .container{
 	width: 100%;
@@ -143,7 +143,7 @@ li>a:hover{
 }
 .hero h1{
 	
-	font-size:40px;
+	font-size:40vw;
 	
 }
 .content p{
