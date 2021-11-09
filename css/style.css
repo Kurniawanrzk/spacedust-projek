@@ -124,6 +124,8 @@ li>a:hover{
 	padding: 20px;
 	margin-top: 200px;
 	background-color: whitesmoke;
+	position:absolute;
+	bottom:0px;
 
 }
 
