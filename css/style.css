@@ -132,7 +132,7 @@ li>a:hover{
 }
 
 
-@media(min-width:321px) and (max-width:425px){
+@media(min-width:300px) and (max-width:425px){
 
 .container{
 	width: 100%;
