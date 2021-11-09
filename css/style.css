@@ -159,4 +159,31 @@ li>a:hover{
 
 }
 }
+@media(min-width:300px) and (max-width:480px){
+
+.container{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	
+	
+}
+.hero h1{
+	
+	font-size:35px;
+	
+}
+.content p{
+	font-size: 25px;
+	text-align: left;
+	width: 320px;
+	margin: 1px;
+
+}
+.content h1{
+	font-size: 30px;
+	text-align: left;
+
+}
+}
 
