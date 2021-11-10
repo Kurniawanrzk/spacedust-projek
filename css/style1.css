@@ -105,7 +105,7 @@ li>a:hover{
 	color: black;
 }
 
-@media(min-width:321px) and (max-width:425px){
+@media(min-width:300px) and (max-width:480px){
 
 .container{
 	width: 100%;
@@ -113,5 +113,12 @@ li>a:hover{
 	background-color: black;
 	
 	
+}
+.footer{
+	padding: 20px;
+	height: auto;
+	margin-top:100%;
+	background-color: whitesmoke;
+
 }
 }
